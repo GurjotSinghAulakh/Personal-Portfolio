@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -37,7 +39,7 @@ html {
 }
 
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Poppins', sans-serif;
     background: #317773;
     color: var(--blueCard);
     line-height: 1.7;
@@ -99,7 +101,7 @@ a:hover {
 }
 
 .btn:hover {
-    background: black;
+    background: var(--orange);
     color: whitesmoke;
     border-color: transparent;
 }
