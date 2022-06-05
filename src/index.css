@@ -38,7 +38,7 @@ html {
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    background: var(--gray);
+    background: #317773;
     color: var(--blueCard);
     line-height: 1.7;
 }
@@ -60,6 +60,7 @@ h1 {
 
 section {
     margin-top: 8rem;
+    height: 100vh;
 }
 
 section > h2, 
@@ -98,14 +99,14 @@ a:hover {
 }
 
 .btn:hover {
-    background: white;
-    color: red;
+    background: black;
+    color: whitesmoke;
     border-color: transparent;
 }
 
 .btn-primary {
-    background: var(--orange);
-    color: red;
+    background: #015753;
+    color: var(--orange);
 }
 
 img {
