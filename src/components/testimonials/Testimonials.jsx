@@ -3,7 +3,7 @@ import './testimonials.css'
 import AVTR1 from '../../assets/avtar1.jpeg'
 import AVTR2 from '../../assets/avtar2.jpg'
 import AVTR3 from '../../assets/avtar3.jpeg'
-import AVTR4 from '../../assets/avtar4.jpeg'
+/* import AVTR4 from '../../assets/avtar4.jpeg' */
 
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -29,13 +29,13 @@ const data = [
   {
     avatar: AVTR3,
     name: 'Tharusan',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aut dolore provident voluptatibus eum iste atque eius. Libero ipsam similique, sit tempora quaerat cum hic laudantium error repellat ea eligendi',
-  }, 
+    review: "I have known Gurjot for 2 years now. He is a very kind soul who is eager to help everyone around him. Even if it is at his own expense. He is willing to prioritise helping others rather than just focusing on his own work. That is something that seprates everyone from Gurjot. I have worked with Gurjot on some projects previously. And what I can say for sure is that he knows, and master a lot of things like multiple programming languages very well and is capable of finding multiple ways to solve problems. At the same time he has tendencies to take control and be a leader when it is necessary. He isn't just a good programmer but he also has a big heart.",
+  }/*
   {
     avatar: AVTR4,
     name: 'Arman ',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam aut dolore provident voluptatibus eum iste atque eius. Libero ipsam similique, sit tempora quaerat cum hic laudantium error repellat ea eligendi',
-  } 
+  } */
 ]
 
 const Testimonials = () => {

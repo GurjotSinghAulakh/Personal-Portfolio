@@ -29,21 +29,24 @@ const About = () => {
             <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>20+ Worldwide</small>
             </article>
 
             <article className='about__card'>
               <AiFillFolderOpen className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+</small>
+              <small>25+</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores 
-            totam voluptate sunt, non at temporibus delectus odit officiis 
-            accusamus ea fugiat alias natus corrupti nostrum cum. Obcaecati 
-            nihil eius ea.
+             I am a 21 year old student who is passionate about learning, with never giving up attitude.
+             I am a believer in teamwork ethics and professional exposure. I can trust to meet the organization's goals.
+             I am motivated to achieve great success and make contributions to help people. I am currently taking a
+             Bachelor in Computer Science from OsloMet.
+
+            <br/><br/>
+             In my free time I like to play chess, volleyball, table tennis and do coding.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
