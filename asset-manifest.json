@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.04e69fdb.css",
-    "main.js": "/Personal-Portfolio/static/js/main.3b0ba2c8.js",
+    "main.js": "/Personal-Portfolio/static/js/main.86ba8c49.js",
     "static/media/img2.jpg": "/Personal-Portfolio/static/media/img2.f46769dd467a5e1648bb.jpg",
-    "static/media/cv.pdf": "/Personal-Portfolio/static/media/cv.ef97c752c30fbc0dc45a.pdf",
     "static/media/portfolio-image5.jpg": "/Personal-Portfolio/static/media/portfolio-image5.3df340ba96acff37f026.jpg",
     "static/media/portfolio-image4.jpg": "/Personal-Portfolio/static/media/portfolio-image4.14a053cb09ffcba80901.jpg",
     "static/media/portfolio-image3.jpg": "/Personal-Portfolio/static/media/portfolio-image3.6bb905439334ee5d12f2.jpg",
     "static/media/portfolio-image1.jpg": "/Personal-Portfolio/static/media/portfolio-image1.b24d7e98d74c0ba59ba7.jpg",
+    "static/media/cv.pdf": "/Personal-Portfolio/static/media/cv.9f0be1a568253e5a561f.pdf",
     "static/media/avtar3.jpeg": "/Personal-Portfolio/static/media/avtar3.491cb514a8e41ccf9b04.jpeg",
     "static/media/portfolio-image2.jpg": "/Personal-Portfolio/static/media/portfolio-image2.d06cd191612b92c230a2.jpg",
     "static/media/avtar2.jpg": "/Personal-Portfolio/static/media/avtar2.052ace156d9142bac73d.jpg",
@@ -15,10 +15,10 @@
     "static/media/Singh-img.png": "/Personal-Portfolio/static/media/Singh-img.dd7e1253c27d368c683a.png",
     "index.html": "/Personal-Portfolio/index.html",
     "main.04e69fdb.css.map": "/Personal-Portfolio/static/css/main.04e69fdb.css.map",
-    "main.3b0ba2c8.js.map": "/Personal-Portfolio/static/js/main.3b0ba2c8.js.map"
+    "main.86ba8c49.js.map": "/Personal-Portfolio/static/js/main.86ba8c49.js.map"
   },
   "entrypoints": [
     "static/css/main.04e69fdb.css",
-    "static/js/main.3b0ba2c8.js"
+    "static/js/main.86ba8c49.js"
   ]
 }
